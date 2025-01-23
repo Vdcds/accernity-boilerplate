@@ -1,7 +1,6 @@
 import { AuroraBackgroundDemo } from "@/components/ui/backgrounddemo";
 import { BackgroundBeamsWithCollisionDemo } from "@/components/ui/beams";
 import { ThreeDCardDemo } from "@/components/ui/card-demo";
-import { MacbookScroll } from "@/components/ui/macbook-scroll";
 
 export default function Home() {
   return (
